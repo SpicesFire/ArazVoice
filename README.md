@@ -6,7 +6,7 @@ Araz: Voice is a free, client-side add-on for **[Araz (The Anomaly)](https://www
 
 ## Download
 
-Get the jar for your loader and Minecraft version from **[Releases](https://github.com/SpicesFire/ArazVoice/releases/latest)** and put it in your `mods` folder next to Araz.
+Get the jar for your loader and Minecraft version from **[Releases](https://github.com/SpicesFire/ArazVoice/releases)** and put it in your `mods` folder next to Araz.
 
 | Loader | Minecraft | File |
 |---|---|---|
